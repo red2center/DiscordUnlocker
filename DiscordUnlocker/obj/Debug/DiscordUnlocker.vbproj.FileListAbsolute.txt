@@ -1,0 +1,11 @@
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\bin\Debug\DiscordUnlocker.exe.config
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\bin\Debug\DiscordUnlocker.exe
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\bin\Debug\DiscordUnlocker.pdb
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\bin\Debug\DiscordUnlocker.xml
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.vbprojResolveAssemblyReference.cache
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.Form1.resources
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.Resources.resources
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.vbproj.GenerateResource.Cache
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.exe
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.xml
+c:\users\bengi\documents\visual studio 2015\Projects\DiscordUnlocker\DiscordUnlocker\obj\Debug\DiscordUnlocker.pdb
