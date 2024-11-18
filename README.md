@@ -1,2 +1,2 @@
 # DiscordUnlocker
-TR-RU Discord Connection Problems Solver Application
+This Repo is Changed name new program is : 
